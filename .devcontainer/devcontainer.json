@@ -29,7 +29,8 @@
         "streetsidesoftware.code-spell-checker",
         "vscjava.vscode-java-pack",
         "github.codespaces",
-        "vscjava.vscode-gradle"
+        "vscjava.vscode-gradle",
+        "vsls-contrib.gitdoc"
       ]
     }
   }
